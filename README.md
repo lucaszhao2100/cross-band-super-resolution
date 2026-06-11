@@ -4,12 +4,4 @@ The dataset is meticulously structured to ensure full reproducibility of experim
 
 ⭐ Citation
 If you use this code or dataset in your research, please cite our paper:
-@article{zhao2025alteration,
-  title={Alteration mineral information extraction based on image super-resolution technology},
-  author={Zhao, Chunyu and [Your Co-authors]},
-  journal={International Journal of Applied Earth Observation and Geoinformation},
-  year={2025},
-  volume={},
-  pages={},
-  doi={10.1016/j.jag.2025.103892}
-}
+Alteration mineral information extraction based on image super-resolution technology(https://www.sciencedirect.com/science/article/pii/S1569843225005199)
